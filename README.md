@@ -11,4 +11,3 @@ I am learning version control.
 - HTML
 - CSS
 - JavaScript
- 
